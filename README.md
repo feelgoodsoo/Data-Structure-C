@@ -1,1 +1,1 @@
-# Data-Structure-C
+# C로 구현하는 자료 구조
